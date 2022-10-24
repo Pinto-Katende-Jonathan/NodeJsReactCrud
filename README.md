@@ -1,6 +1,6 @@
 # NodeJsReactCrud
 
-Il s'agit d'une simple application permettant de faire le **crud (Create, read, update et delete) en Node JS**
+Il s'agit d'une simple application permettant de faire le **crud (Create, read, update et delete) en Node JS, puis mysql2(sequelise)**
 
 Les étapes à suivre (dans le terminal : **cmd**) sont :
 
