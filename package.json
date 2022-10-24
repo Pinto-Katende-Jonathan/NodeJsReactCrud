@@ -1,0 +1,13 @@
+{
+  "name": "pratique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "backend": "npm run server --prefix server",
+    "frontend": "npm run start --prefix client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
