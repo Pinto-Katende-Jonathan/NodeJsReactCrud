@@ -11,5 +11,5 @@ Les étapes à suivre (dans le terminal : **cmd**) sont :
 
 ***NB*** : Pour l'instant le client est vide, mais il n'y a que les dépendances. Prochainement, il sera mis à jour.
 
-# ***PINTO KATENDE Jonathan***
+## ***PINTO KATENDE Jonathan***
 ====================================
