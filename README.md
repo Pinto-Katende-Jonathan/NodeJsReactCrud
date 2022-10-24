@@ -9,7 +9,7 @@ Les étapes à suivre (dans le terminal : **cmd**) sont :
 - Pour allumer le server : >`npm run backend` *c'est un code personnel*
 - Pour allumer le client : >`npm run frotend` *c'est un code personnel*
 
-***NB*** : Pour l'instant le client est vide, mais il n'y a que les dépendances. Prochainement, il sera mis à jour.
+***NB*** : *Pour l'instant le client est vide, mais il n'y a que les dépendances. Prochainement, il sera mis à jour.*
 
 ## ***PINTO KATENDE Jonathan***
 ====================================
